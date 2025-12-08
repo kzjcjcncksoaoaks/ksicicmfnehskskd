@@ -35,10 +35,10 @@
       "TYPE": "BG_COMMUNITY",
       "FILE_NAME": "BGCommunity.txt",
       "EMOJI_ID": 5312247595890939359,
-      "ACTIONS_RU": "является **Официальным сообществом**",
-      "ACTIONS_EN": "is **Official Community**",
-      "PROFILE_RU": "Официальное сообщество",
-      "PROFILE_EN": "Official Community"
+      "ACTIONS_RU": "является **Официальным сообществом** BG",
+      "ACTIONS_EN": "is **Official BG Community**",
+      "PROFILE_RU": "Официальное сообщество BG",
+      "PROFILE_EN": "Official BG Community"
     },
     {
       "TYPE": "BGO_SUPPORTER",
