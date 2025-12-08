@@ -1,0 +1,81 @@
+{
+  "METADATA": {
+    "BASE_URL": "https://raw.githubusercontent.com/kzjcjcncksoaoaks/ksicicmfnehskskd/main",
+    "REFRESH_INTERVAL": 3600
+  },
+  "ROLES": [
+    {
+      "TYPE": "BG_OVERLORD",
+      "FILE_NAME": "overlord.txt",
+      "EMOJI_ID": 5309750574919487407, 
+      "ACTIONS_RU": "является **сыном шлюхи**",
+      "ACTIONS_EN": "is **Overlord** of",
+      "PROFILE_RU": "Сын шлюхи",
+      "PROFILE_EN": "Overlord"
+    },
+    {
+      "TYPE": "BG_OFFICIAL",
+      "FILE_NAME": "BGOfficial.txt",
+      "EMOJI_ID": 5309750574919487407,
+      "ACTIONS_RU": "является **Официальным Представителем**",
+      "ACTIONS_EN": "is **Official Representative** for",
+      "PROFILE_RU": "Официальный Представитель",
+      "PROFILE_EN": "Official Representative"
+    },
+    {
+      "TYPE": "BGO_OWNER",
+      "FILE_NAME": "owners.txt",
+      "EMOJI_ID": 5309750574919487407,
+      "ACTIONS_RU": "является **Владельцем**",
+      "ACTIONS_EN": "is **Owner** of",
+      "PROFILE_RU": "Владелец",
+      "PROFILE_EN": "Owner"
+    },
+    {
+      "TYPE": "BG_COMMUNITY",
+      "FILE_NAME": "BGCommunity.txt",
+      "EMOJI_ID": 5309750574919487407,
+      "ACTIONS_RU": "является **Официальным сообществом**",
+      "ACTIONS_EN": "is **Official Community** of",
+      "PROFILE_RU": "Официальное сообщество",
+      "PROFILE_EN": "Official Community"
+    },
+    {
+      "TYPE": "BGO_SUPPORTER",
+      "FILE_NAME": "supporters.txt",
+      "EMOJI_ID": 5309750574919487407,
+      "ACTIONS_RU": "поддерживает",
+      "ACTIONS_EN": "supports",
+      "PROFILE_RU": "Поддерживающий",
+      "PROFILE_EN": "Supporter"
+    }
+  ],
+  "STRINGS": {
+    "RU": {
+      "act_header": "Управление API Gateway",
+      "check_updates": "Синхронизация протоколов",
+      "checking": "Соединение с сервером ключей...",
+      "no_updates": "Все модули работают штатно",
+      "updated": "Реестр обновлен. Объектов: {}",
+      "update_fail": "Критическая ошибка шлюза",
+      "clear_cache": "Сброс кэша ядра",
+      "show_count": "Диагностика базы данных",
+      "stats_info": "В реестре:\n✨ Plugins: 6\n🫵🏻 x17662: {BG_OVERLORD}\n👑 Official: {BG_OFFICIAL}\n⭐ Admin: {BGO_OWNER}\n🟢 Community: {BG_COMMUNITY}\n💎 Supporter: {BGO_SUPPORTER}",
+      "badge_template": "{prefix} {name} {action}",
+      "profile_status": "Аккаунт верифицирован как {role_text} Blockman Go Ost"
+    },
+    "EN": {
+      "act_header": "API Gateway Management",
+      "check_updates": "Sync Protocols",
+      "checking": "Connecting to key server...",
+      "no_updates": "All modules operational",
+      "updated": "Registry updated. Objects: {}",
+      "update_fail": "Gateway critical error",
+      "clear_cache": "Flush Core Cache",
+      "show_count": "Database Diagnostics",
+      "stats_info": "Registry:\n✨ Plugins: 6\n🫵🏻 x17662: {BG_OVERLORD}\n👑 Official: {BG_OFFICIAL}\n⭐ Admin: {BGO_OWNER}\n🟢 Community: {BG_COMMUNITY}\n💎 Supporter: {BGO_SUPPORTER}",
+      "badge_template": "{prefix} {name} {action}",
+      "profile_status": "Account verified as {role_text} Blockman Go Ost"
+    }
+  }
+}
