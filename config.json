@@ -8,35 +8,35 @@
       "TYPE": "BG_OVERLORD",
       "FILE_NAME": "overlord.txt",
       "EMOJI_ID": 5309750574919487407, 
-      "ACTIONS_RU": "является **сыном шлюхи**",
-      "ACTIONS_EN": "is **Overlord** of",
+      "ACTIONS_RU": "– **проклятый сынок шлюхи**",
+      "ACTIONS_EN": "is **gey** of",
       "PROFILE_RU": "Сын шлюхи",
-      "PROFILE_EN": "Overlord"
+      "PROFILE_EN": "gey"
     },
     {
       "TYPE": "BG_OFFICIAL",
       "FILE_NAME": "BGOfficial.txt",
       "EMOJI_ID": 5309750574919487407,
-      "ACTIONS_RU": "является **Официальным Представителем**",
-      "ACTIONS_EN": "is **Official Representative** for",
-      "PROFILE_RU": "Официальный Представитель",
-      "PROFILE_EN": "Official Representative"
+      "ACTIONS_RU": "является **Официальным Представителем** BG",
+      "ACTIONS_EN": "is **Official Representative** for BG",
+      "PROFILE_RU": "Официальный Представитель BG",
+      "PROFILE_EN": "Official Representative BG"
     },
     {
       "TYPE": "BGO_OWNER",
       "FILE_NAME": "owners.txt",
       "EMOJI_ID": 5309750574919487407,
-      "ACTIONS_RU": "является **Владельцем**",
-      "ACTIONS_EN": "is **Owner** of",
-      "PROFILE_RU": "Владелец",
-      "PROFILE_EN": "Owner"
+      "ACTIONS_RU": "является частью команды **BG-Ost**",
+      "ACTIONS_EN": "is team member **BG-Ost**",
+      "PROFILE_RU": "Часть команды BG-Ost",
+      "PROFILE_EN": "Часть команды BG-Ost"
     },
     {
       "TYPE": "BG_COMMUNITY",
       "FILE_NAME": "BGCommunity.txt",
       "EMOJI_ID": 5309750574919487407,
       "ACTIONS_RU": "является **Официальным сообществом**",
-      "ACTIONS_EN": "is **Official Community** of",
+      "ACTIONS_EN": "is **Official Community**",
       "PROFILE_RU": "Официальное сообщество",
       "PROFILE_EN": "Official Community"
     },
@@ -44,10 +44,10 @@
       "TYPE": "BGO_SUPPORTER",
       "FILE_NAME": "supporters.txt",
       "EMOJI_ID": 5309750574919487407,
-      "ACTIONS_RU": "поддерживает",
-      "ACTIONS_EN": "supports",
-      "PROFILE_RU": "Поддерживающий",
-      "PROFILE_EN": "Supporter"
+      "ACTIONS_RU": "поддерживает BG-Ost",
+      "ACTIONS_EN": "supports BG-Ost",
+      "PROFILE_RU": "Поддерживающий BG-Ost",
+      "PROFILE_EN": "Supporter BG-Ost"
     }
   ],
   "STRINGS": {
