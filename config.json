@@ -61,7 +61,7 @@
       "clear_cache": "Сброс кэша ядра",
       "show_count": "Диагностика базы данных",
       "stats_info": "В реестре:\n✨ Plugins: 6\n🫵🏻 x17662: {BG_OVERLORD}\n👑 Official: {BG_OFFICIAL}\n⭐ Admin: {BGO_OWNER}\n🟢 Community: {BG_COMMUNITY}\n💎 Supporter: {BGO_SUPPORTER}",
-      "badge_template": "{prefix} **{name}** {action}",
+      "badge_template": "**{name}** {action}",
       "profile_status": "Аккаунт верифицирован как {role_text} Blockman Go Ost"
     },
     "EN": {
@@ -74,7 +74,7 @@
       "clear_cache": "Flush Core Cache",
       "show_count": "Database Diagnostics",
       "stats_info": "Registry:\n✨ Plugins: 6\n🫵🏻 x17662: {BG_OVERLORD}\n👑 Official: {BG_OFFICIAL}\n⭐ Admin: {BGO_OWNER}\n🟢 Community: {BG_COMMUNITY}\n💎 Supporter: {BGO_SUPPORTER}",
-      "badge_template": "{prefix} **{name}** {action}",
+      "badge_template": "**{name}** {action}",
       "profile_status": "Account verified as {role_text} Blockman Go Ost"
     }
   }
