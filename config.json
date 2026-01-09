@@ -1,81 +1,24 @@
 {
-  "METADATA": {
-    "BASE_URL": "https://raw.githubusercontent.com/kzjcjcncksoaoaks/ksicicmfnehskskd/main",
-    "REFRESH_INTERVAL": 120
+  "settings": {
+    "update_interval": 60,
+    "admin_contact": "none"
   },
-  "ROLES": [
+  "badges": [
     {
-      "TYPE": "BG_OVERLORD",
-      "FILE_NAME": "overlord.txt",
-      "EMOJI_ID": 5328237290982486305, 
-      "ACTIONS_RU": " получил(-а) этот значок в качестве подтверждения статуса «**изгой общества**»",
-      "ACTIONS_EN": "is **gey** of",
-      "PROFILE_RU": "Сын шлюхи",
-      "PROFILE_EN": "gey"
+      "id": "BGO_OWNER",
+      "priority": 1,
+      "emoji_id": 5309750574919487407,
+      "file": "owners.txt",
+      "text_ru": "{name} является частью команды BG-Ost",
+      "text_en": "{name} is part of the BG-Ost team."
     },
     {
-      "TYPE": "BG_OFFICIAL",
-      "FILE_NAME": "BGOfficial.txt",
-      "EMOJI_ID": 5312247595890939359,
-      "ACTIONS_RU": "является **Официальным Представителем BG**",
-      "ACTIONS_EN": "is **Official Representative for BG**",
-      "PROFILE_RU": "Официальный Представитель BG",
-      "PROFILE_EN": "Official Representative BG"
-    },
-    {
-      "TYPE": "BGO_OWNER",
-      "FILE_NAME": "owners.txt",
-      "EMOJI_ID": 5309750574919487407,
-      "ACTIONS_RU": "является **частью команды BG-Ost**",
-      "ACTIONS_EN": "is **team member BG-Ost**",
-      "PROFILE_RU": "Часть команды BG-Ost",
-      "PROFILE_EN": "Часть команды BG-Ost"
-    },
-    {
-      "TYPE": "BG_COMMUNITY",
-      "FILE_NAME": "BGCommunity.txt",
-      "EMOJI_ID": 5312247595890939359,
-      "ACTIONS_RU": "– **официальное сообщество BG**",
-      "ACTIONS_EN": "is **Official BG Community**",
-      "PROFILE_RU": "Официальное сообщество BG",
-      "PROFILE_EN": "Official BG Community"
-    },
-    {
-      "TYPE": "BGO_SUPPORTER",
-      "FILE_NAME": "supporters.txt",
-      "EMOJI_ID": 5309750574919487407,
-      "ACTIONS_RU": "поддерживает **BG-Ost**",
-      "ACTIONS_EN": "supports **BG-Ost**",
-      "PROFILE_RU": "Поддерживающий BG-Ost",
-      "PROFILE_EN": "Supporter BG-Ost"
+      "id": "izgoy_obshestva",
+      "priority": 2,
+      "emoji_id": 5328237290982486305,
+      "file": "overlord.txt",
+      "text_ru": "{name} получил(-а) этот значок в качестве подтверждения статуса «**изгой общества**».",
+      "text_en": "{name} получил(-а) этот значок в качестве подтверждения статуса «**изгой общества**»."
     }
-  ],
-  "STRINGS": {
-    "RU": {
-      "act_header": "Управление API Gateway",
-      "check_updates": "Синхронизация протоколов",
-      "checking": "Соединение с сервером ключей...",
-      "no_updates": "Все модули работают штатно",
-      "updated": "Реестр обновлен. Объектов: {}",
-      "update_fail": "Критическая ошибка шлюза",
-      "clear_cache": "Сброс кэша ядра",
-      "show_count": "Диагностика базы данных",
-      "stats_info": "В реестре:\n✨ Plugins: 6\n🫵🏻 x17662: {BG_OVERLORD}\n👑 Official: {BG_OFFICIAL}\n⭐ Admin: {BGO_OWNER}\n🟢 Community: {BG_COMMUNITY}\n💎 Supporter: {BGO_SUPPORTER}",
-      "badge_template": "**{name}** {action}",
-      "profile_status": "Аккаунт верифицирован как {role_text} Blockman Go Ost"
-    },
-    "EN": {
-      "act_header": "API Gateway Management",
-      "check_updates": "Sync Protocols",
-      "checking": "Connecting to key server...",
-      "no_updates": "All modules operational",
-      "updated": "Registry updated. Objects: {}",
-      "update_fail": "Gateway critical error",
-      "clear_cache": "Flush Core Cache",
-      "show_count": "Database Diagnostics",
-      "stats_info": "Registry:\n✨ Plugins: 6\n🫵🏻 x17662: {BG_OVERLORD}\n👑 Official: {BG_OFFICIAL}\n⭐ Admin: {BGO_OWNER}\n🟢 Community: {BG_COMMUNITY}\n💎 Supporter: {BGO_SUPPORTER}",
-      "badge_template": "**{name}** {action}",
-      "profile_status": "Account verified as {role_text} Blockman Go Ost"
-    }
-  }
+  ]
 }
