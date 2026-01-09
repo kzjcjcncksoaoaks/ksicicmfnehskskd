@@ -1,6 +1,6 @@
 {
   "settings": {
-    "update_interval": 60,
+    "update_interval": 180,
     "admin_contact": "none"
   },
   "badges": [
