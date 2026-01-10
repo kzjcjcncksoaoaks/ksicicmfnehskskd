@@ -43,6 +43,14 @@
       "file": "exclusiveforfuron.txt",
       "text_ru": "**{name} просто милый няшка <3**",
       "text_en": "**{name} просто милый няшка <3**"
+    },
+    {
+      "id": "scammer",
+      "priority": 6,
+      "emoji_id": 4947697806962852817,
+      "file": "scammers.txt",
+      "text_ru": "**{name}** – мошенник. Обманывает людей на деньги.",
+      "text_en": "**{name}** is a fraud. He cheats people out of money."
     }
   ]
 }
