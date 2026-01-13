@@ -1,3 +1,5 @@
+menu:Канал с доказательствами:OfficialBadgesProofs
+
 #id:date | emoji_id | text
 #id, id, id, date | emoji_id | text
 #channel/group_id:date | emoji_id | text
