@@ -1,4 +1,4 @@
-menu:Официальный канал:OfficialBadges
+menu:Официальный канал плагина:https://t.me/OfficialBadges
 
 #id:date | emoji_id | text
 #id, id, id, date | emoji_id | text
