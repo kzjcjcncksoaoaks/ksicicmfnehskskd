@@ -1,4 +1,4 @@
-menu:Канал с доказательствами:OfficialBadgesProofs
+menu:Официальный канал:OfficialBadges
 
 #id:date | emoji_id | text
 #id, id, id, date | emoji_id | text
