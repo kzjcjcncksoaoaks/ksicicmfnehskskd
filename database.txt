@@ -1,4 +1,3 @@
-version: 1.5.0
 name:Официальный канал:OfficialBadges
 
 #id:date | emoji_id | text
