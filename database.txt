@@ -4,7 +4,7 @@ menu:Официальный канал:OfficialBadges
 #id, id, id, date | emoji_id | text
 #channel/group_id:date | emoji_id | text
 #- {count} {sub_word}/{member_word} 
-#-- {name} {id} {date}
+#-- {name} {id} {date} {username}
 
 
 #=========================================
