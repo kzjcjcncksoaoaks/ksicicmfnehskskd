@@ -1,0 +1,20 @@
+# --- Настройки бокового меню ---
+drawer_main_text=Официальный канал
+drawer_main_icon=msg_channel
+drawer_update_text=Обновить значки
+drawer_update_icon=msg_retry_solar
+
+# --- Ссылки ---
+channel_url=https://t.me/OfficialBadges
+
+# --- Настройки внутри плагина (Экран настроек) ---
+settings_header_db=Настройки значков
+settings_switch_text=Дополнительные значки
+settings_switch_subtext=Загружать значки пользователей из дополнительной базы.
+settings_switch_icon=msg_list
+
+settings_header_control=Управление
+settings_btn_update_text=Обновить значки
+settings_btn_update_icon=msg_retry_solar
+settings_btn_channel_text=Перейти в канал
+settings_btn_channel_icon=msg_channel
