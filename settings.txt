@@ -18,7 +18,3 @@ settings_btn_update_text=Обновить значки
 settings_btn_update_icon=msg_retry_solar
 settings_btn_channel_text=Перейти в канал
 settings_btn_channel_icon=msg_channel
-
-# --- Кнопка настроек в боковом меню ---
-drawer_settings_text=Настройки OfficialBadges
-drawer_settings_icon=msg_settings
